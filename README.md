@@ -1,6 +1,6 @@
 # Proffy Agilizei Bootcamp
 
-## Desafio #N3
+## Desafio N3
 1. URL Cypress Dashboard https://dashboard.cypress.io/projects/192uf9/runs/3/overview
 
 ## Iniciando o projeto
