@@ -14,6 +14,5 @@
   g. teste o start da aplicação: `npm start`
 
 *Pronto, agora é só acompanhar a aula* ⚡️
-# proffy-agilizei-
 
 
