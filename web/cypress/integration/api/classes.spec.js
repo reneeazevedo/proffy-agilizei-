@@ -47,8 +47,7 @@ context('Classes endpoint', () => {
             expect(response.status).to.equal(201)
             //Validação statusText é igual Created
             expect(response.statusText).to.equal('Created')
-            //Validação para a duração da reposta seja < 30 segundos
-            expect(response.duration).lessThan(100)
+           
             
             
         })
