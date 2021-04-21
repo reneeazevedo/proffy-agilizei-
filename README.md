@@ -10,15 +10,11 @@
    b. instale as dependências: `npm install`
    c. teste o start da aplicação: `npm start`
    d. se ainda estiver no diretório web, volte para o root com `cd ..`
-  e. acesse o diretório server: `cd server`
-  f. instale as dependências: `npm install`
-  g. teste o start da aplicação: `npm start`
+   e. acesse o diretório server: `cd server`
+   f. instale as dependências: `npm install`
+   g. teste o start da aplicação: `npm start`
 
 *Pronto, agora é só acompanhar a aula* ⚡️
 
-
-1. 2222
-  a. dddd
-  b. ooooo
 
 
