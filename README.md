@@ -4,7 +4,6 @@
 1. URL Cypress Dashboard https://dashboard.cypress.io/projects/192uf9/runs/3/overview
 
 ## Iniciando o projeto
-
 1. Instale as dependências para a web e para o server
   a. acesse o diretório web: `cd web`
   b. instale as dependências: `npm install`
